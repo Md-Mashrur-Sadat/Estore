@@ -1,2 +1,2 @@
 # Estore
-A website made using PHP, JAVASCRIPT, HTML, CSS
+A website made using PHP, HTML, CSS
